@@ -26,7 +26,7 @@ export default function Hero() {
         </div>
 
         <div className="flex justify-center space-x-6">
-          <a href="https://github.com/kim-oness/kimutai-dev" className="text-gray-600 hover:text-indigo-600 transition-colors">
+          <a href="https://github.com/kim-oness" className="text-gray-600 hover:text-indigo-600 transition-colors">
             <Github size={24} />
           </a>
           <a href="https://www.linkedin.com/in/kimutai-onesmus-263519214" className="text-gray-600 hover:text-indigo-600 transition-colors">
