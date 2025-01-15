@@ -8,8 +8,8 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     tags: ['Python', 'React', 'TensorFlow', 'AWS'],
     links: {
-      demo: 'https://www.linkedin.com/in/kimutai-onesmus-263519214',
-      github: 'https://www.linkedin.com/in/kimutai-onesmus-263519214'
+      demo: 'https://github.com/kim-oness4',
+      github: 'https://github.com/kim-oness'
     }
   },
   {
@@ -18,8 +18,8 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     tags: ['Python', 'PyTorch', 'OpenCV', 'Docker'],
     links: {
-      demo: 'https://www.linkedin.com/in/kimutai-onesmus-263519214',
-      github: 'https://www.linkedin.com/in/kimutai-onesmus-263519214'
+      demo: 'https://github.com/kim-oness',
+      github: 'https://github.com/kim-oness'
     }
   },
   {
@@ -28,8 +28,8 @@ const projects = [
     image: 'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     tags: ['Python', 'FastAPI', 'Transformers', 'MongoDB'],
     links: {
-      demo: 'https://www.linkedin.com/in/kimutai-onesmus-263519214',
-      github: 'https://www.linkedin.com/in/kimutai-onesmus-263519214'
+      demo: 'https://github.com/kim-oness',
+      github: 'https://github.com/kim-oness'
     }
   }
 ];
